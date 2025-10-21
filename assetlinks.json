@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.tcircle",
+      "sha256_cert_fingerprints": [
+        "CE:4D:D6:A0:5E:6C:CC:B3:AA:71:96:2F:5A:60:1E:EF:E8:E8:45:8A:F5:F0:1E:07:84:3A:40:6A:CD:FD:1F:F4"
+      ]
+    }
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1061039477150",
+    "firebase_url": "https://ibmd-coalbps.firebaseio.com",
+    "project_id": "ibmd-coalbps",
+    "storage_bucket": "ibmd-coalbps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061039477150:android:a84fb0c89326b193",
+        "android_client_info": {
+          "package_name": "com.coalbps.mjunction.coalbps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061039477150-cdnf5irec0735q7sgs4aseu15qr1ld81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTHfLOX56c0wbsaHv_Yn6QILIf8wXJzY0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
